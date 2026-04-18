@@ -1,0 +1,7 @@
+*{margin: 0px;padding:0px;}
+
+.card-img-skate{
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}

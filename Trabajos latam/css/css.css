@@ -1,0 +1,44 @@
+*{margin: 0px;padding:0px;}
+
+body{background-color: #060400;}
+
+.head{ margin: 20px;
+    width: 100%;
+    display: block;
+}
+
+.letra{padding: 45px;
+    text-align: justify;
+    color: aliceblue;}
+
+
+
+.imagenes{margin-left:250px ;
+    height: 250px;
+}
+
+.flex{display:flex;
+    padding: 40px;
+}
+
+h1{font-size: small;
+    font-size: 100px;
+    color: rgb(81, 24, 31);
+    margin-bottom: 20px;
+}
+
+
+main{margin: 40px;
+    padding: 40pxl;
+}
+
+
+
+footer{background-color: brown;
+    text-align: center;
+    height: 40px;
+}
+
+
+
+
